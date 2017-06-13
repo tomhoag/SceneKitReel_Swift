@@ -4,7 +4,9 @@
 ## Note: This is a Swift 3 implementation of the 2014 SceneKit demo for only the Sprite Kit Integration Slide!!
 <hr>
 
-[![SceneKitReel_Swift.gif](https://s17.postimg.org/dslcmysyn/Scene_Kit_Reel_Swift.gif)](https://postimg.org/image/vin1806jf/)
+![Demo](http://s20.postimg.org/wfxbv3kwd/drawermenu.gif)
+
+![Demo](https://s17.postimg.org/dslcmysyn/Scene_Kit_Reel_Swift.gif)
 
 This sample shows how the demo for the state the of union was realised. It includes examples of physics simulation, particles, collisions, physics field, 3D text, the integration with SpriteKit and custom GLSL shaders.
 
